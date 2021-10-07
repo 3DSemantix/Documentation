@@ -18,6 +18,7 @@ In the root folder:
 `python -m venv .venv`
 `.venv\Scripts\activate`
 `python -m pip install sphinx`
+`python -m pip install sphinx-rtd-theme`
 
 Validate: 
 
