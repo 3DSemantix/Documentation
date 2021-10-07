@@ -6,9 +6,12 @@
 3DPartFinder Documentation
 ======================================================
 
-.. toctree::
+.. toctree::    
    :maxdepth: 2
    :caption: Contents:
+
+   answer.md
+   3dpartfinder/intro.md
 
 
 

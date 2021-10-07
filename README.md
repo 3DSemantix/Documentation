@@ -19,6 +19,7 @@ In the root folder:
 `.venv\Scripts\activate`
 `python -m pip install sphinx`
 `python -m pip install sphinx-rtd-theme`
+`python -m pip install --upgrade myst-parser`
 
 Validate: 
 
